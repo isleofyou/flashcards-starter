@@ -4,7 +4,8 @@ The purpose of this project was to introduce TDD. I created test files for multi
 
 # Example
 
-![Gif example](https://user-images.githubusercontent.com/60856601/137407132-a5a1ba35-ff72-4417-81d6-f3d74ba08b36.gif)
+![Gif example](https://user-images.githubusercontent.com/60856601/137407182-6a439d80-31ee-49a7-a446-f1bf2606a87f.gif)
+
 
 
 # Technologies Used
